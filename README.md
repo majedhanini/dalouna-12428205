@@ -6,5 +6,5 @@
 ## Short Description
 A simple responsive restaurant website using HTML and CSS for the Dalouna assignment.
 
-## Live Preview (optional)
+## Live Preview 
 https://majedhanini.github.io/dalouna-12428205
